@@ -1,2 +1,2 @@
-# hexoDev
-hexo site source code
+# hexo #
+
