@@ -1,3 +1,2 @@
 # hexo #
 
-[![Build Status]]
